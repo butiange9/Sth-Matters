@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "25d7d8a8f950b490",
+        "id": "0a7cce5f5d7dbd0b",
         "type": "tabs",
         "children": [
           {
-            "id": "b22ebbda233d6f84",
+            "id": "af1d0cda1e8cd8cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "沙海拾金/泛讨论/泛讨论_大型超市的未来.md",
+                "file": "【文章目录】/【2 - 信仰类】/神学答集/传福音 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a02f60556a78163",
+            "id": "9be89811d776b0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【文章目录】/【1 - 哲学类】/160 - 形而上学/166 - 真理论/终极真理.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac6376fb2f6ea0cb",
+            "id": "944c149645877507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/自强/自责.md",
+                "file": "【文章目录】/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论功夫/扎实.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,23 +56,7 @@
       {
         "id": "27a88da1b223d6ee",
         "type": "tabs",
-        "dimension": 34.17142857142857,
         "children": [
-          {
-            "id": "7569597966c86526",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "人类会在知道终极真理**之前**疯掉。",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
           {
             "id": "366372991e7a9040",
             "type": "leaf",
@@ -79,29 +64,38 @@
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "5cddf796add1364e",
-        "type": "tabs",
-        "dimension": 65.82857142857142,
-        "children": [
+          },
           {
-            "id": "4879eced09a10136",
+            "id": "d80c1d7f6a9012b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a70a73378e0a3e11",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 258.5
   },
   "right": {
     "id": "667d5636990656b4",
@@ -117,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沙海拾金/泛讨论/泛讨论_大型超市的未来.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,86 +129,71 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "bf225de6acac63ea",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "canvas:新建白板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b22ebbda233d6f84",
+  "active": "9be89811d776b0c8",
   "lastOpenFiles": [
-    "沙海拾金/泛讨论/泛讨论_Gap year.md",
-    "沙海拾金/泛讨论/泛讨论_大型超市的未来.md",
-    "【本周更新】/汇率狂砭.md",
-    "【本周更新】/美军的帮助.md",
-    "【本周更新】/md/2024-04-19人类知道世界的终极真理后会疯掉吗?.md",
-    "【文章目录】/【1 - 哲学类】/160 - 形而上学/166 - 真理论/终极真理.md",
-    "【本周更新】/冬天里的一把火.md",
-    "【本周更新】/遇袒则忧.md",
-    "【本周更新】/AAL IZZ WELL.md",
-    "【本周更新】/水母阴姬.md",
-    "【本周更新】/天意不可违.md",
-    "【本周更新】/鲜.md",
-    "【本周更新】/认知战.md",
-    "【本周更新】/导师.md",
-    "【本周更新】/凶宅.md",
-    "【本周更新】/部队火锅.md",
-    "【本周更新】/成性论.md",
-    "【本周更新】/实而虚之.md",
-    "【本周更新】/md/2024-04-14家境贫寒你会责怪父母吗？.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/192 - 个人伦理/自强/自责.md",
-    "【本周更新】/md/Nel/2024-04-14作为女性，你最不理解其他女性的什么行为?.md",
-    "【本周更新】/忍无可忍.md",
-    "【文章目录】/【6 - 中国史地】/620 - 中国断代史/义和团.md",
-    "【本周更新】/md/2024-04-14义和团是个什么样的组织？同外国侵略者作战等于送死吗？义和团为什么会兴起？.md",
-    "【本周更新】/热变冷.md",
-    "【本周更新】/md/Nel/2024-04-14“撒旦”一定是代表邪恶吗？.md",
-    "【本周更新】/md/Nel",
-    "【本周更新】/md",
-    "md/Nell",
-    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/苹果",
-    "md/N",
-    "md",
-    "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/导弹/超高音速武器.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/导弹/规则修改器.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/导弹/打怪兽.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/导弹/武麻将.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/导弹/振金弹.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/导弹",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/知乎/知乎流量问题.md",
     "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/知乎",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI/此站不停.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI/微软团队.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI/不两立.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI/Sam Altman.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI/Follow the Money.md",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/OpenAI",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程/天基通信.md",
+    "【文章目录】/【4 - 应用科学】/440 - 工程/通信工程",
+    "沙海拾金/核心能力/核心能力_对等交换.md",
+    "沙海拾金/文章相关讨论/评论区_正邪之分.md",
+    "沙海拾金/文章相关讨论/评论区_好人多还是坏人多.md",
+    "待归档/黑海舰队.md",
+    "待归档/黑得发亮.md",
+    "待归档/面子.md",
+    "待归档/骑射.md",
+    "待归档/除三害.md",
+    "待归档/阿根廷破产.md",
+    "待归档/纯电保姆车.md",
+    "待归档/钟妈妈.md",
+    "待归档/金钱爆.md",
+    "待归档/通向和好的路.md",
+    "待归档/退货潮.md",
+    "待归档",
+    "【文章目录】/【5 - 社会科学】/550 - 经济/553 - 生产 & 企业 & 经济政策",
+    "【文章目录】/【4 - 应用科学】/490 - 商学/499 - 企业志 & 公司行号志/苹果",
     "【文章目录】/【4 - 应用科学】/440 - 工程/447 - 交通工具工程/火箭",
-    "md/Nell",
+    "_附件/Screenshot 2023-11-09 at 18.34.29.png",
+    "_附件/Screenshot 2023-11-09 at 18.33.35.png",
+    "_附件/Screenshot 2023-11-09 at 18.31.29.png",
     "转载授权/1-鼓励利用我的内容盈利.jpeg",
-    "转载授权/2-授权条款更新.png",
     "_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
     "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
+    "10.16/新增",
+    "10.16/修订",
+    "转载授权/2-授权条款更新.png",
+    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
     "Untitled.canvas",
     "待移除/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "待移除/_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.12.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.21.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.27.png"
+    "待移除/_附件/Screenshot 2022-12-02 at 11.01.55.png"
   ]
 }
